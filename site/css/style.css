@@ -1,3 +1,6 @@
+body {
+    background-color: lightcyan;
+}
 
 * {
     box-sizing: border-box;
@@ -58,7 +61,7 @@ div.row > div div:first-child {
     padding:10px;
     margin:1.66%;
     position:relative;
-    background-color: skyblue;
+    background-color: aqua;
   }
   .col-lg-1 {
     width: 7.5%;
@@ -105,7 +108,7 @@ div.row > div div:first-child {
     padding:10px;
     margin: 1.66%;
     position: relative;
-    background-color: skyblue;
+    background-color: gainsboro;
   }
   .col-md-1 {
     width: 7.5%;
@@ -153,7 +156,7 @@ div.row > div div:first-child {
     padding: 10px;
     margin: 1.66%;
     position: relative;
-    background-color: skyblue;
+    background-color: aliceblue;
   }
   
   .col-sm-1 {
