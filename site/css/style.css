@@ -24,7 +24,7 @@ p {
   width: 100%;
 }
 
-div.row div:nth-child(even){
+div.row > div div:first-child {
     color: yellowgreen;
 }
 /********** Large devices only **********/
