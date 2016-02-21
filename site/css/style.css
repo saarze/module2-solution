@@ -61,7 +61,7 @@ div.row > div div:first-child {
     padding:10px;
     margin:1.66%;
     position:relative;
-    background-color: aqua;
+    background-color: aliceblue;
   }
   .col-lg-1 {
     width: 7.5%;
@@ -108,7 +108,7 @@ div.row > div div:first-child {
     padding:10px;
     margin: 1.66%;
     position: relative;
-    background-color: gainsboro;
+    background-color: aliceblue;
   }
   .col-md-1 {
     width: 7.5%;
