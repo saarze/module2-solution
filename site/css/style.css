@@ -16,6 +16,7 @@ p {
   background-color: #A52A2A;
   position: absolute;
   right: 0px;
+  top:-16px;
   width: 100px;
   height: 50px;
 }
