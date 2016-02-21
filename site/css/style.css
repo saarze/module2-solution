@@ -22,14 +22,17 @@ p {
 
 #p1{
     background-color: rosybrown;
+    font-weight: bold;
 }
 
 #p2 {
     background-color: olive;
+    font-weight: bold;
 }
 
 #p3 {
-    background-color: paleturquoise;
+    background-color: peru;
+    font-weight: bold;
 }
 
 /* Simple Responsive Framework. */
@@ -51,6 +54,7 @@ div.row > div div:first-child {
     padding:10px;
     margin:1.66%;
     position:relative;
+    background-color: skyblue;
   }
   .col-lg-1 {
     width: 7.5%;
@@ -97,6 +101,7 @@ div.row > div div:first-child {
     padding:10px;
     margin: 1.66%;
     position: relative;
+    background-color: skyblue;
   }
   .col-md-1 {
     width: 7.5%;
@@ -144,6 +149,7 @@ div.row > div div:first-child {
     padding: 10px;
     margin: 1.66%;
     position: relative;
+    background-color: skyblue;
   }
   
   .col-sm-1 {
