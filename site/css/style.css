@@ -20,7 +20,7 @@ p {
   width: 100%;
 }
 
-div.row > div p:first-child {
+div.row > div div:first-child {
     color: yellowgreen;
     position: relative;
     top: 2px;
