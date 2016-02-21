@@ -23,16 +23,19 @@ p {
 #p1{
     background-color: rosybrown;
     font-weight: bold;
+    text-align: center;
 }
 
 #p2 {
     background-color: olive;
     font-weight: bold;
+    text-align: center;
 }
 
 #p3 {
     background-color: peru;
     font-weight: bold;
+    text-align: center;
 }
 
 /* Simple Responsive Framework. */
