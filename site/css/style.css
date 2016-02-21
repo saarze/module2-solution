@@ -36,7 +36,6 @@ div.row > div div:first-child {
     float: left;
     border: 1px solid dimgray;
     margin:5px;
-    padding: 5px;
   }
   .col-lg-1 {
     width: 8.33%;
